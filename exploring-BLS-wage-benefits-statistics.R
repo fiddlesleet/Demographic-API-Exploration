@@ -1,4 +1,3 @@
-library(blscrapeR)
 library(ggplot2)
 library(tidyr)
 library(blscrapeR)
